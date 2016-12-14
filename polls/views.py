@@ -12,7 +12,7 @@ if sys.getdefaultencoding() != default_encoding:
     sys.setdefaultencoding(default_encoding)
 
 # ----------------------------------------------
-# 2016年12月14日14:52:38
+# 2016年12月14日14:52:38 更改
 
 
 def index(request):
